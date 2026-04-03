@@ -1,4 +1,4 @@
-# STARTER-jpa01-MrPau13
+# jpa01-MrPau13
 
 Deployed at: https://jpa01-mrpau13.dokku-12.cs.ucsb.edu
 
